@@ -1,0 +1,30 @@
+{
+  "name": "express-jwt-auth-middleware",
+  "version": "1.0.0",
+  "description": "Simple authentication middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venoflux/express-jwt-auth-middleware.git"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "jwt",
+    "authentication",
+    "middleware"
+  ],
+  "author": "Venoflux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Venoflux/express-jwt-auth-middleware/issues"
+  },
+  "homepage": "https://github.com/Venoflux/express-jwt-auth-middleware#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
